@@ -1,7 +1,7 @@
 #a maior da prioridade são os parenteses ()
 #depois a exponenciação / potencia
 #depois multiplicação e divisão
-#soma e subtração na ordem
+#soma e subtração na ordem das operacoes
 #exemplo
 
 num1 = 76
