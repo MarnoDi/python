@@ -2,7 +2,7 @@
 # uma função precisa ser chamada.
 # argumento: algo passado pela função
 # uma funcão tem um nome seguido por parenteses ()
-#para definir uma funçao para variavel é pelo =, o = é uma variavel e  o () é uma funcão
+# para definir uma funçao para variavel é pelo =, o = é uma variavel e  o () é uma funcão
 #
 # ----------------------------------------------------------------------------------------
 # A função int converte um numero em inteiro
