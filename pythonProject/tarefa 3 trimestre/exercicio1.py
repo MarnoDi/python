@@ -3,10 +3,11 @@ def nomeSeu(seuNome):
     print(seuNome)
 
 def nomeSeuPai(nomePai):
-    print("nome dos pais: ")
+    print("nome dos pai: ")
     print(nomePai)
 
 def nomeSuaMae(nomeMae):
+    print("Nome da mãe:")
     print(nomeMae)
 
 seuNome = str(input("Digite o seu nome: "))
